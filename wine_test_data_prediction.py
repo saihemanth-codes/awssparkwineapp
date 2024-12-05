@@ -1,9 +1,7 @@
 ##
- # Programming assignment 1.(Summer 2021) 
+ # Programming assignment 
  # Course : cs-643
- # Instructor: Cristian Borcea
- # Teacher: Hessamaldin Mohammadi
- # Author : Deepika Batra
+ # vk676
 ##
 """
 Spark application to run tuned model with testfile
