@@ -75,6 +75,6 @@ User can also create spark cluster using below aws cli command:
 
 Sample command
 ```
-docker run -v /Users/<username>/<path-to-folder>/awssparkwineapp/data/csv:/code/data/csv dfordeepika/awssparkwineapp testdata.csv
+docker run -v /Users/<username>/<path-to-folder>/awssparkwineapp/data/csv:/code/data/csv saihemanthvk676/awssparkwineapp testdata.csv
 
 ```
