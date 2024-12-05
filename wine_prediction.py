@@ -1,9 +1,8 @@
 ##
- # Programming assignment 2.(Summer 2021) 
+ # Programming assignment 2
  # Course : cs-643
- # Instructor: Cristian Borcea
- # Teacher: Hessamaldin Mohammadi
- # Author : Deepika Batra
+ # Vk676
+ 
 ##
 """
 Spark application to train and tune model using wine prediction data
